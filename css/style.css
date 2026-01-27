@@ -103,10 +103,6 @@ video {
   --menu-text-weight: 500;
 }
 
-h1 {
-  font-weight: var(--title-weight);
-  color: var(--primary-color);
-}
 @font-face {
   font-family: "Montserrat";
   src: url(../fonts/Montserrat-Regular.ttf);
