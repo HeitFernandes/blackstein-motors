@@ -87,6 +87,10 @@ video {
   vertical-align: baseline;
 }
 
+body {
+  font-family: "Montserrat";
+}
+
 :root {
   --primary-color: #8f0101;
   --secondary-color: #b81515;
@@ -96,7 +100,7 @@ video {
   --background-tertiary-color: #000000;
 
   --text-primary-color: #222222;
-  --text-second-color: #ffffff;
+  --text-secondary-color: #ffffff;
 
   --title-weight: 700;
   --text-weight: 400;
